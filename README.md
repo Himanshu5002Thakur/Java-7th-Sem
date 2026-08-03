@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1480-running-sum-of-1d-array](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/1929-concatenation-of-array) |
@@ -42,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
