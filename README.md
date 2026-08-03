@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/0053-maximum-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/1929-concatenation-of-array) |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
