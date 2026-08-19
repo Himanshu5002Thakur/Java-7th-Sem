@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/0013-roman-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/0013-roman-to-integer) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/0013-roman-to-integer) |
 | [0904-fruit-into-baskets](https://github.com/Himanshu5002Thakur/Java-7th-Sem/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
